@@ -1,0 +1,24 @@
+.multimedia {
+overflow: auto;
+padding: 20px 0;
+}
+
+.multimedia-video {
+display: inline-block;
+float: left;
+padding-left: 5px;
+padding-right: 5px;
+/* width: 33.33%;
+
+/* width: 50%;
+
+/* width: 25%;
+
+width: 33.33%;
+box-sizing: border-box;
+}
+
+.multimedia-video video {
+width: 100%;
+height: auto;
+}
